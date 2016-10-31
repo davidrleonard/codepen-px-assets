@@ -11,8 +11,8 @@ In the head section of your Codepen project, import the HTML file and apply the 
 <link rel="import" href="http://example.com/css/component-tutorial-styles.html">
 
 <!-- Apply the styles it exposes with style tags: -->
- <style include="codepen-px-base-styles"></style>
- <style include="px-theme-styles" is="custom-style"></style>
+<style include="px-theme-styles" is="custom-style"></style>
+<style include="component-tutorial-styles"></style>
 ```
 
 ## Local Development

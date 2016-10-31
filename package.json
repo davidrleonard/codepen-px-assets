@@ -2,7 +2,7 @@
     "name": "codepen-px-assets",
     "author": "General Electric",
     "description": "Provides the assets for Predix UI catalog tutorial Codepens.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "private": true,
     "extName" : null,
     "repository" :
